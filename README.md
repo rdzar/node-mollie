@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/renedx/node-mollie.svg?branch=master)](https://travis-ci.org/renedx/node-mollie)
 [![Coverage Status](https://coveralls.io/repos/github/renedx/node-mollie/badge.svg?branch=master)](https://coveralls.io/github/renedx/node-mollie?branch=master)
-[![npm version](https://badge.fury.io/js/node-mollie.svg)](https://badge.fury.io/js/mollie)
+[![npm version](https://badge.fury.io/js/node-mollie.svg)](https://badge.fury.io/js/node-mollie)
 
 A promise based API wrapper for mollie.com in Node
 
