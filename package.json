@@ -1,5 +1,5 @@
 {
-  "name": "mollie",
+  "name": "node-mollie",
   "description": "Node API promise-wrapper for Mollie",
   "version": "v1.0.0",
   "main": "dist",
