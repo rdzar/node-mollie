@@ -1,0 +1,21 @@
+# Dependency directory
+node_modules
+
+# Source directory
+src
+test
+
+# Code coverage
+.nyc_output
+coverage
+
+# NPM
+npm-debug.log
+
+# DOT files
+.nycrc
+.babelrc
+.eslintrc
+.gitignore
+.statuschecks
+.travis.yml
